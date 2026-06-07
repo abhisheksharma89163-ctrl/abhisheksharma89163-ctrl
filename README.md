@@ -46,13 +46,9 @@ Coming Soon...
 
 - ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisheksharma89163-ctrl&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma89163-ctrl&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhisheksharma89163-ctrl)
 
-## 🌐 Connect With Me
+## 🤝🏻 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/abhishek-sharma-6a282b29a
 - GitHub: github.com/abhisheksharma89163-ctrl
